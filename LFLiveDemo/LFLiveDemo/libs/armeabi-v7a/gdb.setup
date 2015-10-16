@@ -1,0 +1,2 @@
+set solib-search-path ./obj/local/armeabi-v7a
+directory /System/Library/android-ndk-r8e/platforms/android-14/arch-arm/usr/include jni/../lflive /vagrant/webrtc/src /vagrant/webrtc/src/third_party/android_tools/ndk//sources/cxx-stl/llvm-libc++/libcxx/include /vagrant/webrtc/src/third_party/android_tools/ndk//sources/cxx-stl/llvm-libc++abi/libcxxabi/include /vagrant/webrtc/src/third_party/android_tools/ndk//sources/android/support/include /vagrant/webrtc/src/chromium/src/third_party/icu/source/common /System/Library/android-ndk-r8e/sources/cxx-stl/system/include

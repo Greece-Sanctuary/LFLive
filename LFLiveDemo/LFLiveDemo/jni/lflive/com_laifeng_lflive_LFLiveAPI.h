@@ -1,0 +1,7 @@
+
+#ifndef COM_LAIFENG_LFLIVE_LFLIVEAPI_H_
+#define COM_LAIFENG_LFLIVE_LFLIVEAPI_H_
+
+#include <jni.h>
+
+#endif /* COM_LAIFENG_LFLIVE_LFLIVEAPI_H_ */
